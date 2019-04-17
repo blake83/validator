@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Comquer\ArrayValidator;
+namespace Comquer\Validator\ArrayValidator;
 
 class ArrayValidator
 {

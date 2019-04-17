@@ -2,8 +2,8 @@
 
 namespace ComquerTest\Validation;
 
-use Comquer\ArrayValidator\ArrayMissingRequiredKeysException;
-use Comquer\ArrayValidator\ArrayValidator;
+use Comquer\Validator\ArrayValidator\ArrayMissingRequiredKeysException;
+use Comquer\Validator\ArrayValidator\ArrayValidator;
 use PHPUnit\Framework\TestCase;
 
 class ArrayValidatorTest extends TestCase
