@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Comquer\Serialization\Validation;
+namespace Comquer\Validator\EntityValidator;
 
 use RuntimeException;
 
