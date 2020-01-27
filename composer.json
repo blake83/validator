@@ -1,5 +1,5 @@
 {
-    "name": "comquer/validator",
+    "name": "blake83/validator",
     "description": "Static array validator",
     "type": "library",
     "require-dev": {
